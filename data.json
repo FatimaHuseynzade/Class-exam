@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "name": "Corater",
+      "image": "",
+      "content": "Find perfect snicker",
+      "price": "$80"
+    },
+    {
+      "id": 2,
+      "name": "Corater",
+      "image": "",
+      "content": "Find perfect snicker",
+      "price": "$80"
+    }
+  ]
+}
